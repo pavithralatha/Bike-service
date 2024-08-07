@@ -13,7 +13,7 @@
 
 ### Front-End Technology:
 
-- [x] React.JS
+- [x] React.JS 
 - [x] Javascript
 - [x] React Router Dom
 - [x] Firebase Authentication
