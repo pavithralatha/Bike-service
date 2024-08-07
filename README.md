@@ -57,7 +57,6 @@
      ![6](https://github.com/DINKAR202/Bike_Service_Application/assets/109248473/9cc691ed-8cfd-45b3-bfe7-782be516faa6)
      ![7](https://github.com/DINKAR202/Bike_Service_Application/assets/109248473/ae2ee73f-7f11-4f4f-9c5b-88946293c3cb)
      ![8](https://github.com/DINKAR202/Bike_Service_Application/assets/109248473/18531f27-5f1b-4ed3-b331-a60be3800af3)
-     ![9](https://github.com/DINKAR202/Bike_Service_Application/assets/109248473/95603ecb-8a2b-4015-bb84-6267aacc1f99)
           
 ### SignUp/SignIn
 
