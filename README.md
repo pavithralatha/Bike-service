@@ -37,7 +37,7 @@
 
 ### Setps of project Run:
 1. Download or clone the project.
-   CMD:- git clone 
+   CMD:- git clone https://github.com/pavithralatha/Bike-service
    
 2. install npm :- npm i / npm audit fix --force
    
